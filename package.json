@@ -1,0 +1,23 @@
+{
+  "name": "Countries_Web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyChS/Countries_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyChS/Countries_Web/issues"
+  },
+  "homepage": "https://github.com/BillyChS/Countries_Web#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
